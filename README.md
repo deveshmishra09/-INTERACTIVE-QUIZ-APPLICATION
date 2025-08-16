@@ -54,3 +54,6 @@ Structuring projects and practicing debugging in VS Code.
 Conclusion
 
 The Interactive Quiz Application is more than just a small coding project; it is a practical learning tool for both users and developers. While users benefit from an engaging quiz-taking experience, developers strengthen their front-end skills and build a portfolio-worthy project. Running smoothly in VS Code with the help of extensions like Live Server, the project combines education, entertainment, and technology into one interactive package.
+
+#OUTPUT
+<img width="1803" height="902" alt="Image" src="https://github.com/user-attachments/assets/5d3615b4-2666-4df3-9852-0ecb465581cd" />
